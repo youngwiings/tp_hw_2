@@ -1,3 +1,6 @@
+![Main Branch Status](https://github.com/youngwiings/tp_hw_2/actions/workflows/ci_cd.yml/badge.svg?branch=main)
+
+
 # Техническое задание 2 <hr>
 
 ### Описание структуры проекта
@@ -23,7 +26,7 @@
 
 
 Также реализована возможность получения уведомлений об успешном или неуспешном прохождении автоматического тестирования
-в группе telegram с помощью интеграции telegram бота.
+в группе telegram с помощью интеграции telegram бота. [Ссылка на telegram группу](https://t.me/+fQl8VGWgnEZjMTMy)
 
 ### Функционал программы:
 1. `_min`  - поиск минимального значения во входном файле
@@ -32,7 +35,7 @@
 4. `_mult` - результат умножения значений входного файла
 
 ### График зависимости времени выполнения функции `_mult` от количества чисел во входном файле.:<br/>
-
+![Chart](https://github.com/youngwiings/tp_hw_2/raw/master/assets/performance_chart.png)
 
 <br/>
 
