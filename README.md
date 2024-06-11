@@ -35,7 +35,7 @@
 4. `_mult` - результат умножения значений входного файла
 
 ### График зависимости времени выполнения функции `_mult` от количества чисел во входном файле.:<br/>
-![Chart](https://github.com/youngwiings/tp_hw_2/raw/master/assets/performance_chart.png)
+![Chart](https://github.com/youngwiings/tp_hw_2/raw/main/assets/performance_chart.png)
 
 <br/>
 
